@@ -1,6 +1,6 @@
 # ProyectoEjemplo
 Repositorio practica
 
-#Documentacion 1 (Dev 1)
-Doc desarrollador 1
+# Documentacion 2 (Dev 2)
+Doc desarrollador 2
 
